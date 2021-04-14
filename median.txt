@@ -1,5 +1,5 @@
-Word Count Dict:{'should': 1, 'this': 1, 'job': 1, 'is': 1, 'your': 1, 'man': 1, 'will': 1, 'you': 1, 'places': 1, 'hire': 1, 'me': 1, 'nr2': 1, 'get': 2, 'abhinav': 3}
-Word Count List: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3]
-Median: 1.0
-Mean: 1.2142857142857142
+Word Count Dict:{"i'll": 1, 'turn': 1, 'into': 1, 'did': 1, 'better': 1, 'job': 1, 'than': 1, 'there': 1, 'now': 1, 'lets': 1, 'illegal': 1, 'immigrants': 1, 'w': 1, 'holy': 1, 'pogges': 1, 'good': 1, 'take': 1, 'everyone’s': 1, 'saying': 1, 'sack': 1, 'done': 1, 'or': 1, 'moving': 1, 'perverseness': 1, 'he’s': 1, 'ecstatic': 1, 'about': 1, 'dark': 1, 'night': 1, 'best': 1, 'nr2': 1, 'college humour': 1, 'has': 1, 'something': 1, 'along': 1, 'those': 1, 'lines': 1, '2019': 1, 'psychological': 1, 'thriller': 1, 'brother': 1, 'had': 1, 'not': 1, 'my': 1, 'frank': 1, 'miller': 1, 'experience': 1, 'kind': 1, 'remember': 1, 'some': 1, 'sin': 1, 'city': 1, 'comics': 1, 'being': 1, 'cool': 1, 'mfd': 1, 'really': 1, 'say': 1, 'robert': 1, 'patination': 1, 'bad': 1, 'actor': 1, 'just': 1, 'twilight': 1, 'if': 1, "wasn't": 1, 'that': 1, 'series': 1, 'people': 1, 'translated': 1, 'am': 1, 'batman': 2, 'because': 2, 'on': 2, 'from': 2, 'persona': 2, '5': 2, 'melvin': 2, 'was': 2, 'a': 3, 'in': 3, 'is': 3, 'of': 3, 'i': 3, 'he': 4, 'the': 5, 'joker': 9}
+Word Count List: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 4, 5, 9]
+Median: 1
+Mean: 1.3793103448275863
 Mode: 1

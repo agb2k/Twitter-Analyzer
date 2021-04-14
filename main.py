@@ -2,13 +2,14 @@ import statistics
 import tweepy
 import re
 import enchant
+import os
 
 # Twitter API keys
-APIKey = "mQkNBlcW2XEmRFKUJJVVqysCK"
-APISecretKey = "yPLHGwwEO94ymqsZ4CO3jA6hBkeazWRHUO03m9I19CSaCejFws"
+APIKey = os.environ.get("TWITTER_API_KEY")
+APISecretKey = os.environ.get("TWITTER_API_KEY_SECRET")
 
-accessToken = "888393487405559808-NNUksYquOW9UHeo5NofigI1VBTP9wir"
-accessTokenSecret = "41shbKk8eu6TKus8GXVqPfWMPPoP2J2yyPYmThYMwZk63"
+accessToken = os.environ.get("TWITTER_ACCESS_TOKEN")
+accessTokenSecret = os.environ.get("TWITTER_ACCESS_TOKEN_SECRET")
 
 # Tweepy Authentication
 auth = tweepy.OAuthHandler(APIKey, APISecretKey)
