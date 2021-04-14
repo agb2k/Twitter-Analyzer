@@ -1,1 +1,5 @@
-Median: 1
+Word Count Dict:{'should': 1, 'this': 1, 'job': 1, 'is': 1, 'your': 1, 'man': 1, 'will': 1, 'you': 1, 'places': 1, 'hire': 1, 'me': 1, 'nr2': 1, 'get': 2, 'abhinav': 3}
+Word Count List: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3]
+Median: 1.0
+Mean: 1.2142857142857142
+Mode: 1
